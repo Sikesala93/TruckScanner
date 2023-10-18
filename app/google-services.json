@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "114541495165",
+    "project_id": "my-first-project1-2d70f",
+    "storage_bucket": "my-first-project1-2d70f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114541495165:android:9430134d3d5395bddfc214",
+        "android_client_info": {
+          "package_name": "com.example.cloudstoragedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114541495165-an3vkm1jh3sm1ptad9dbfsorha1lpfq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYbREoCjyQfKi38pCQNmKe6i9wK2Kr2js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114541495165-an3vkm1jh3sm1ptad9dbfsorha1lpfq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114541495165:android:79bdcffc2cb2f382dfc214",
+        "android_client_info": {
+          "package_name": "com.example.truck_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114541495165-an3vkm1jh3sm1ptad9dbfsorha1lpfq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYbREoCjyQfKi38pCQNmKe6i9wK2Kr2js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114541495165-an3vkm1jh3sm1ptad9dbfsorha1lpfq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114541495165:android:1f4262fad95ae23edfc214",
+        "android_client_info": {
+          "package_name": "com.example.truckscannerpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114541495165-an3vkm1jh3sm1ptad9dbfsorha1lpfq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYbREoCjyQfKi38pCQNmKe6i9wK2Kr2js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114541495165-an3vkm1jh3sm1ptad9dbfsorha1lpfq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
